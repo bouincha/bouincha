@@ -79,6 +79,6 @@
 
 ### 📫 Let's connect
 
-📧 **bouinchamohamed1@gmail.com** · 📍 Errachidia, Morocco
+📧 **bouinchamohamed1@gmail.com** · 📍 Casablanca, Morocco
 
 <p align="center"><i>Thanks for visiting my profile!</i></p>
