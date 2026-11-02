@@ -14,7 +14,7 @@
 - 💻 I build complete web applications: modern interfaces, REST APIs, MVC back-ends and relational databases
 - 🤖 Currently exploring **AI agents**: multi-agent systems with LangGraph, RAG, monitoring and CI/CD
 - 🌱 Motivated to grow in a dynamic, innovative team
-- 🗣️ Tamazight (native) · Arabic (fluent) · English (advanced) · French (intermediate)
+- 🗣️ Tamazight (native) · Arabic (fluent) · English (advanced) · French (intermediate) 
 
 ---
 
